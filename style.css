@@ -1,0 +1,26 @@
+
+    /* Default light mode styles */
+    body {
+      background-color: white;
+      color: black;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    /* Dark mode styles */
+    .dark-mode {
+      background-color: black;
+      color: white;
+    }
+
+    button {
+      margin: 20px;
+      padding: 10px 20px;
+      cursor: pointer;
+     
+    }
+    .card{
+        margin: 20px;
+        
+
+    }
+ 
